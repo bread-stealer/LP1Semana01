@@ -3,7 +3,7 @@
 namespace MeuPrograma
 {
     /// <summary>
-    /// Principal Class of the program
+    /// Main Class
     /// </summary>
     public class Program
     {
